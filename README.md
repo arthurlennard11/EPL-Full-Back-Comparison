@@ -30,4 +30,4 @@ The radar plots strongly supported the hypothesis: Leif Davis’s performance me
 ---
 
 ## 🧩 Takeaway  
-Visualizing advanced stats can be a powerful method to challenge media narratives and surface hidden gems — especially in roles like fullback where contributions can be harder to quantify. Visuals like these can be especially valuable to scouts who try to find hidden talents. 
+Visualizing advanced stats can be a powerful method to challenge media narratives and surface hidden gems — especially in roles like fullback where contributions can be harder to quantify. Visuals like these can be especially valuable to scouts when trying to find hidden talents. 
