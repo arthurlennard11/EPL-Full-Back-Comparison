@@ -21,7 +21,7 @@ I selected several key performance metrics relevant to the modern fullback role 
 Using R, I cleaned and normalized the statistical data to ensure comparability across metrics. I then generated a series of radar plots (spider graphs) using `fmsb` and `ggplot` to visually highlight the strengths and weaknesses of each player relative to one another. This helped isolate patterns and elevate data-driven insights from the raw numbers.
 
 *Insert radar graph visual here*  
-<img src="Visuals/Leif Davis Radar.png" width="50%" />
+<img src="Graphs/Top%20Full%20Backs.png" width="50%" />
 
 ---
 
