@@ -3,7 +3,7 @@
 ---
 
 ## 🎯 Goal  
-Create a visual comparison of Premier League fullbacks' 2024/25 seasons using radar (spider) graphs, in order to evaluate under-the-radar performances.
+Create a visual comparison of the top Premier League fullbacks' 2024/25 seasons using radar (spider) graphs, in order to evaluate under-the-radar performances.
 
 ---
 
